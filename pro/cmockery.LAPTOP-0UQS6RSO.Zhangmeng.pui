@@ -1,0 +1,32 @@
+[Folders]
+example=1
+google=1
+
+[Open Files]
+Active File Display Mode=1
+Active File Index=4
+Open File Line0=0
+Open File Line1=2330
+Open File Line2=6918
+Open File Line3=9933
+Open File Line4=48300
+Open File Pos0=273
+Open File Pos1=3234
+Open File Pos2=7610
+Open File Pos3=10765
+Open File Pos4=48881
+Open File Window Pos0=0,1,-1,-1,-1,-1,5,31,1018,658
+Open File Window Pos1=0,1,-1,-1,-1,-1,5,31,1018,658
+Open File Window Pos2=0,1,-1,-1,-1,-1,5,31,1018,658
+Open File Window Pos3=0,1,-1,-1,-1,-1,5,31,1017,658
+Open File Window Pos4=0,1,-1,-1,-1,-1,5,31,1017,658
+Open File0=..\src\example\assert_module_test.c
+Open File1=..\src\example\calculator_test.c
+Open File2=..\src\example\calculator.c
+Open File3=..\src\google\cmockery.h
+Open File4=..\src\cmockery.c
+Open File5=
+Remember Files=1
+
+[Project Information]
+Project Start=E10707000600160015000A002E00000058

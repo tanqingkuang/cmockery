@@ -1,0 +1,37 @@
+[Project ID]
+Signature=UE Proj: v.1
+Unicode=1
+[Project Information]
+Use Relative Directory=1
+Relative to Project File=1
+Include Sub Directories=1
+Project TagfileW=
+Project WordfileW=
+Project TpFileW=
+FilterW=
+Create Tagfile=0
+[FilesW]
+0=..\..\cmockery\src\cmockery.c
+1=..\..\cmockery\src\config.h.in
+[GroupW]
+0=google
+1=example
+[FilesW - google]
+0=..\..\cmockery\src\google\cmockery.h
+[FilesW - example]
+0=..\..\cmockery\src\example\allocate_module.c
+1=..\..\cmockery\src\example\allocate_module_test.c
+2=..\..\cmockery\src\example\assert_macro.c
+3=..\..\cmockery\src\example\assert_macro_test.c
+4=..\..\cmockery\src\example\assert_module.c
+5=..\..\cmockery\src\example\assert_module_test.c
+6=..\..\cmockery\src\example\calculator.c
+7=..\..\cmockery\src\example\calculator_test.c
+8=..\..\cmockery\src\example\customer_database.c
+9=..\..\cmockery\src\example\customer_database_test.c
+10=..\..\cmockery\src\example\database.h
+11=..\..\cmockery\src\example\key_value.c
+12=..\..\cmockery\src\example\key_value_test.c
+13=..\..\cmockery\src\example\product_database.c
+14=..\..\cmockery\src\example\product_database_test.c
+15=..\..\cmockery\src\example\run_tests.c
